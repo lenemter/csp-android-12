@@ -1,12 +1,11 @@
-group = "app.template"
+group = "app.morphe.patches.csp"
 
 patches {
-    // TODO: Update this section with your project details.
     about {
-        name = "UserXYZ Patches"
-        description = "Patches for apps I like"
-        source = "git@github.com:UserXYZ/morphe-patches.git"
-        author = "Awesome dev"
+        name = "Clip Studio Paint Android 12 Patches"
+        description = "Patches to enable Clip Studio Paint 5.x on Android 12 (API 31)"
+        source = "https://github.com/lenemter/csp-android-12"
+        author = "Leo (lenemter)"
         contact = "na"
         website = "na"
         license = "GPLv3"
