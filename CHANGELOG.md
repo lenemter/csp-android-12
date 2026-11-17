@@ -1,3 +1,9 @@
+## [1.0.0-dev.2](https://github.com/lenemter/csp-android-12/compare/v1.0.0-dev.1...v1.0.0-dev.2) (2026-11-17)
+
+### ✨ New Features
+
+* Specify minSdk & versionCode in patch metadata ([d668593](https://github.com/lenemter/csp-android-12/commit/d6685930b4e391c555bd1ad66485369dfedb7bcd))
+
 ## 1.0.0-dev.1 (2026-11-16)
 
 ### ✨ New Features
